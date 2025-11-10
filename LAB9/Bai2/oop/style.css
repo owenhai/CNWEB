@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  background-color: #fff;
+  color: #333;
+}
+
+h1 {
+  color: navy;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th,
+td {
+  border: 1px solid gray;
+  padding: 5px;
+}
+
+.hd {
+  background: navy;
+  color: white;
+}
